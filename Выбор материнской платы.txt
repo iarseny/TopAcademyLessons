@@ -1,0 +1,15 @@
+1)Бюджетный
+Процессор Intel Core i5-6500 LGA1151, 4 x 3200 МГц
+Оперативная память Kingston Fury Beast Black KF426C16BB/8 DDR4 - 8ГБ 2666, DIMM, Ret одну штуку
+Материнская плата ASUS PRO H610M-C D4-CSM
+
+
+2)Игровой
+Материнская плата ASUS ROG STRIX B560-A GAMING WIFI, LGA 1200, Intel B560, ATX, Ret
+Оперативная память Kingston Fury Beast Black KF426C16BB/8 DDR4 - 8ГБ 2666, DIMM, Ret две штуки
+Процессор Intel Core i5-12400
+
+3)Профессиональный
+Оперативная память Kingston Fury Beast Black KF426C16BB/8 DDR4 - 8ГБ 2666, DIMM, Ret четыре штуки
+Материнская плата MSI MAG B560 TORPEDO, LGA 1200, Intel B560, ATX, Ret
+Процессор Intel Core i7 10700
