@@ -1,2 +1,3 @@
 nslookup - домен
 netstat -an
+ipconfig
